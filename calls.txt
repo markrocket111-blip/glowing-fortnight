@@ -3,6 +3,6 @@ Calls Log
 
 Date | Time | Caller | Duration | Notes
 -----|------|--------|----------|------
-     |      |        |          |
+     | 4:00 AM | Jess | 5:25 | 
      |      |        |          |
      |      |        |          |
