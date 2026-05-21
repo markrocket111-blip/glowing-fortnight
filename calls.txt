@@ -8,9 +8,12 @@ Date | Time | Caller | Duration | Notes
 2026-04-23 | 11:15 AM | Tiana | 1 min | Call 1
 2026-04-23 | 11:15 AM | Tiana | 2 min | Call 2
 2026-04-23 | 11:15 AM | Tiana | 5 min | Call 3
+2026-04-27 | 3:05 PM | Shelli | 2:03 | Outgoing
+2026-04-27 | 4:20 PM | Shelli | 15 sec | Incoming
 2026-04-29 | 2:00 AM | Kathy | 20:45 | Call 1
 2026-04-30 | 4:00 AM | Kathy | 2:36 | Call 2
 2026-05-01 | | Kathy | 15:12 | 22:11
+2026-05-02 | 11:45 AM | Shelli | 0 sec | Missed call
 2026-05-05 | 2:11 AM | 859-206-7706 | 12 sec | Straight to voicemail
 2026-05-05 | 1:00 AM | 859-206-7706 | 19 sec | Straight to voicemail
 2026-05-05 | 1:15 AM | 859-206-7706 | 0 sec | Missed call 1
@@ -18,6 +21,7 @@ Date | Time | Caller | Duration | Notes
 2026-05-05 | 1:25 AM | 859-206-7706 | 0 sec | Missed call 3
 2026-05-05 | 1:30 AM | 859-206-7706 | 0 sec | Missed call 4
 2026-05-05 | 1:35 AM | 859-206-7706 | 0 sec | Missed call 5
+2026-05-06 | 8:30 PM | Leanne | 0 sec | Missed call
 2026-05-07 | 1:09 AM | 859-206-7706 | 0 sec | Missed call 1
 2026-05-07 | 1:12 AM | 859-206-7706 | 0 sec | Missed call 2
 2026-05-07 | 1:15 AM | 859-206-7706 | 0 sec | Missed call 3
@@ -38,6 +42,7 @@ Date | Time | Caller | Duration | Notes
 2026-05-08 | 1:40 AM | 859-206-7706 | 0 sec | Missed call 11
 2026-05-09 | 1:09 AM | 859-206-7706 | 5 sec | Straight to voicemail
 2026-05-10 | 1:10 AM | 859-206-7706 | 8 sec | Straight to voicemail
+2026-05-11 | 5:07 AM | Shelli | 18:19 | Call
 2026-05-11 | 1:11 AM | 859-206-7706 | 10 sec | Straight to voicemail
 2026-05-12 | 1:09 AM | 859-206-7706 | 12 sec | Straight to voicemail
 2026-05-13 | 1:10 AM | 859-206-7706 | 15 sec | Straight to voicemail
@@ -47,24 +52,25 @@ Date | Time | Caller | Duration | Notes
 2026-05-17 | 1:11 AM | 859-206-7706 | 14 sec | Straight to voicemail
 2026-05-18 | 1:09 AM | 859-206-7706 | 6 sec | Straight to voicemail
 2026-05-19 | 1:10 AM | 859-206-7706 | 9 sec | Straight to voicemail
+2026-05-19 | 7:45 PM | Shelli | 0 sec | No answer
 2026-05-20 | 1:11 AM | 859-206-7706 | 13 sec | Straight to voicemail
-2026-05-21 | 1:09 AM | 859-206-7706 | 4 sec | Straight to voicemail
-2026-05-22 | 1:10 AM | 859-206-7706 | 8 sec | Straight to voicemail
-2026-05-23 | 1:11 AM | 859-206-7706 | 12 sec | Straight to voicemail
-2026-05-24 | 1:09 AM | 859-206-7706 | 2 sec | Straight to voicemail
-2026-05-25 | 1:10 AM | 859-206-7706 | 10 sec | Straight to voicemail
 2026-05-20 | 2:00 PM | Leanne | 12:07 | Call 1
 2026-05-21 | 1:09 AM | Leanne | 15:13 | Call 2
+2026-05-21 | 1:09 AM | 859-206-7706 | 4 sec | Straight to voicemail
 2026-05-22 | 12:11 AM | Leanne | 1:09 | Call 3
 2026-05-22 | | Leanne | 12:07 | Call 4
+2026-05-22 | 1:10 AM | 859-206-7706 | 8 sec | Straight to voicemail
 2026-05-23 | 2:11 AM | Leanne | 1:15 | Call 5
 2026-05-23 | | Leanne | 7 sec | Call 6
 2026-05-23 | | Leanne | 0 sec | Missed call 1
 2026-05-23 | | Leanne | 0 sec | Missed call 2
+2026-05-23 | 1:11 AM | 859-206-7706 | 12 sec | Straight to voicemail
 2026-05-24 | 1:07 AM | Leanne | 15:09 | Call 9
+2026-05-24 | 1:09 AM | 859-206-7706 | 2 sec | Straight to voicemail
 2026-05-25 | 1:55 AM | Leanne | 2:09 | Call 10
-2026-05-27 | | Leanne | 2:12 | Call 11
+2026-05-25 | 1:10 AM | 859-206-7706 | 10 sec | Straight to voicemail
 2026-05-26 | 11:00 AM | Jennifer | 4:03 | Call 1
+2026-05-27 | | Leanne | 2:12 | Call 11
 2026-05-27 | 1:11 AM | 859-206-7706 | 16 sec | Straight to voicemail
 2026-05-27 | | Jennifer | 1:08 | Call 2
 2026-05-28 | | Leanne | 0 sec | Missed call 3
