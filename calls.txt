@@ -30,7 +30,26 @@ Date | Time | Caller | Duration | Notes
 2026-05-23 | 1:11 AM | 859-206-7706 | 12 sec | Straight to voicemail
 2026-05-24 | 1:09 AM | 859-206-7706 | 2 sec | Straight to voicemail
 2026-05-25 | 1:10 AM | 859-206-7706 | 10 sec | Straight to voicemail
+2026-05-20 | 2:00 PM | Leanne | 12:07 | Call 1
+2026-05-21 | 1:09 AM | Leanne | 15:13 | Call 2
+2026-05-22 | 12:11 AM | Leanne | 1:09 | Call 3
+2026-05-22 | | Leanne | 12:07 | Call 4
+2026-05-23 | 2:11 AM | Leanne | 1:15 | Call 5
+2026-05-23 | | Leanne | 7 sec | Call 6
+2026-05-23 | | Leanne | 0 sec | Missed call 1
+2026-05-23 | | Leanne | 0 sec | Missed call 2
+2026-05-24 | 1:07 AM | Leanne | 15:09 | Call 9
+2026-05-25 | 1:55 AM | Leanne | 2:09 | Call 10
+2026-05-27 | | Leanne | 2:12 | Call 11
 2026-05-26 | 11:00 AM | Jennifer | 4:03 | Call 1
 2026-05-27 | 1:11 AM | 859-206-7706 | 16 sec | Straight to voicemail
 2026-05-27 | | Jennifer | 1:08 | Call 2
+2026-05-28 | | Leanne | 0 sec | Missed call 3
+2026-05-28 | | Leanne | 0 sec | Missed call 4
+2026-05-28 | | Leanne | 0 sec | Missed call 5
+2026-06-01 | | Leanne | TEXT | am I coming to get you are you ready
+2026-06-01 | | Leanne | TEXT | I think I could love you
+2026-06-01 | | Leanne | TEXT | I'm on my way I'm spending the night is that okay
+2026-06-01 | | Leanne | TEXT | no one's there just you right I got something for you you're going to love it see you soon
+2026-06-01 | | Leanne | TEXT | I'm outside please come meet me
      | 4:00 AM | Jess | 5:25 | 
